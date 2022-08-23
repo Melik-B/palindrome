@@ -5,7 +5,7 @@
 
 <h3>Palindrome :</h3>
 
-Hello, the purpose of this simple console project is to print on the screen whether the word received from the user is found in the sentence received from the user. Although this console application is simple, if you are a beginner, this application will be a very good example for you to improve yourself.
+Hello sir, this <b>simple</b> console project shows whether the word you entered is a <b>PALINDROME</b> or not. in other words, what you call a palindrome is called the fact that the opposite of a word and its plain are the same. You can improve yourself on conditions, loops or methods using this simple console application.
 
 
 ```bash
@@ -29,10 +29,9 @@ Hello, the purpose of this simple console project is to print on the screen whet
 <h3>What will you learn from this project</h3>
 
 - [x] Conditions
-- [x] Index Of
-- [x] Contains
-    - [x] Split Command
-    - [x] Trim Command
+- [x] Methods
+    - [x] Length Command
+    - [x] Loops
 
 <h3>Built With</h3>
 <img src="https://user-images.githubusercontent.com/76618468/185224412-9aa949ad-6e10-4304-9385-8ca74633934b.png" alt="csharp" width="50" height="50"/>
