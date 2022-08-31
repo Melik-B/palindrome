@@ -41,6 +41,6 @@ Hello sir, this <b>simple</b> console project shows whether the word you entered
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Palindrome](https://github.com/Melik-B/palindrome)
 
 <p align="right">-Melik Baykal</p>
