@@ -43,4 +43,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Palindrome](https://github.com/Melik-B/palindrome)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
